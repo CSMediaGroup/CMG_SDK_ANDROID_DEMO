@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../.gradle/caches/transforms-3/0d597b513c74074aa859edad62a04a20/transformed/jetified-SzrmSdk-1.0.2/res/layout/custom_load_more_view.xml" value="0.18840579710144928" />
+        <entry key="../../.gradle/caches/transforms-3/154dedd3c69dff111c41c65f65233b07/transformed/jetified-SzrmSdk-1.0.4/res/layout/custom_load_more_view.xml" value="0.1" />
+        <entry key="../../.gradle/caches/transforms-3/154dedd3c69dff111c41c65f65233b07/transformed/jetified-SzrmSdk-1.0.4/res/layout/fragment_video_comment_pop.xml" value="0.21920289855072464" />
+        <entry key="../../.gradle/caches/transforms-3/154dedd3c69dff111c41c65f65233b07/transformed/jetified-SzrmSdk-1.0.4/res/layout/no_login_tips.xml" value="0.1" />
+        <entry key="../../.gradle/caches/transforms-3/7bf7d30089b4caaa70d50b82b7986099/transformed/jetified-SzrmSdk-1.0.3/res/layout/custom_load_more_view.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/rv_item_layout.xml" value="0.165" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
