@@ -16,10 +16,6 @@ import com.lzy.okgo.model.Response;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import common.callback.JsonCallback;
-import common.callback.SdkInteractiveParam;
-import common.http.ApiConstants;
-import common.model.SdkUserInfo;
 import common.utils.PersonInfoManager;
 import common.utils.ToastUtils;
 
