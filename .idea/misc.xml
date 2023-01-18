@@ -8,6 +8,7 @@
         <entry key="../../.gradle/caches/transforms-3/154dedd3c69dff111c41c65f65233b07/transformed/jetified-SzrmSdk-1.0.4/res/layout/fragment_video_comment_pop.xml" value="0.21920289855072464" />
         <entry key="../../.gradle/caches/transforms-3/154dedd3c69dff111c41c65f65233b07/transformed/jetified-SzrmSdk-1.0.4/res/layout/no_login_tips.xml" value="0.1" />
         <entry key="../../.gradle/caches/transforms-3/7bf7d30089b4caaa70d50b82b7986099/transformed/jetified-SzrmSdk-1.0.3/res/layout/custom_load_more_view.xml" value="0.18840579710144928" />
+        <entry key="app/src/main/res/layout/activity_demo_login.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
         <entry key="app/src/main/res/layout/rv_item_layout.xml" value="0.165" />
       </map>

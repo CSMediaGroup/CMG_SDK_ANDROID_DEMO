@@ -9,8 +9,8 @@ android {
         applicationId "com.example.kunmingsdkdemo"
         minSdk 21
         targetSdk 31
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -31,8 +31,8 @@ dependencies {
 
     implementation 'androidx.appcompat:appcompat:1.4.2'
     implementation 'com.google.android.material:material:1.6.1'
-    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
-    implementation 'com.github.aaa31210aaa:SzrmSdk:1.2.0'
+    implementation 'androidx.constraintlayout:constraintlayout:latest.release'
+    implementation 'com.github.aaa31210aaa:SzrmSdk:1.2.6'
     implementation 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.30'
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
